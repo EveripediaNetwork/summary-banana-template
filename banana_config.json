@@ -7,6 +7,11 @@
         "max_length" : 30
     },
     
+    "example_input": {"prompt": "table with a book on it",
+    "height":512,
+    "width":512
+  },
+    
     "example_output": {"base64_output": "Tron is a decentralized, blockchain-based, open-source protocol supporting various kinds of blockchain networks and smart contract systems.."},
     "version": "1"
 }
