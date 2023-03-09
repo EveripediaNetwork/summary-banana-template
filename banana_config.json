@@ -7,8 +7,9 @@
         "min_length" : 25, 
         "max_length" : 30
     },
-
-    "example_output": {"base64_output": "Tron is a decentralized, blockchain-based, open-source protocol supporting various kinds of blockchain networks and smart contract systems.."},
-
-    "version": "1"
+  
+   "example_output":{
+      "base64_output":"Tron is a decentralized, blockchain-based, open-source protocol supporting various kinds of blockchain networks and smart contract systems.."
+   },
+   "version":"1"
 }
