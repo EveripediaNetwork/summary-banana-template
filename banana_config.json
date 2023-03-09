@@ -1,7 +1,7 @@
 {
     "name": "Flan-T5 BASE SUMMARY",
     "category": "summarization",
-    "example_input": {"prompt": """Tron is a decentralized, blockchain-based, open-source protocol supporting various kinds of blockchain networks and smart contract systems 
+    "example_input": {"prompt": "Tron is a decentralized, blockchain-based, open-source protocol supporting various kinds of blockchain networks and smart contract systems 
                                    including bitcoin, Ethereum, EOS, Qtum, and other public blockchain smart contracts.
                                    TRON features a delegated proof-of-stake(DPoS) principles as its consensus algorithm 
                                    and a cryptocurrency native to the system, known as Tronix (TRX). Tron was established 
@@ -19,7 +19,7 @@
                                    launched shortly afterward in May 2018 marking the Odyssey 2.0 release as a key technical milestone for TRON.
                                    In June 2018, TRON switched its protocol from an ERC-20 token on top of Ethereum to an independent peer-to-peer network. 
                                    In July 2018, the TRON Foundation announced it had finished the acquisition of BitTorrent, a peer-to-peer 
-                                   file-sharing service. With this, TRON declared its independence with the creation of the Genesis block.""",
+                                   file-sharing service. With this, TRON declared its independence with the creation of the Genesis block.",
                    "min_length" : 25, 
                    "max_length" : 30
     },
