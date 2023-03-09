@@ -1,4 +1,4 @@
-# This repo holds the files for Flan-T5 based fine tuned for summarisation.
+# This repo holds the files for Flan-T5 base model fine-tuned for summarisation.
 
 ## INPUT
 {
