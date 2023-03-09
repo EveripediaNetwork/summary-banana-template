@@ -1,5 +1,6 @@
 # This repo holds the files for Flan-T5 base model fine-tuned for summarisation.
 ## config.json
+```
 {
     "name": "Flan-T5 BASE SUMMARY",
     "category": "summarization",
@@ -9,6 +10,7 @@
     "example_output": {"Tron is a decentralized, blockchain-based, open-source protocol supporting various kinds of blockchain networks and smart contract systems.."},
     "version": "1"
 }
+```
 <br>
 
 <br>
