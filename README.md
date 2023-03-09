@@ -1,12 +1,19 @@
 
 # 🍌 Banana Serverless
 
-This repo gives a framework to serve ML models in production using simple HTTP servers.
+This repo holds the files for Flan-T5 based fine tuned for summarisation.
 
-# Quickstart
-**[Follow the quickstart guide in Banana's documentation to use this repo](https://docs.banana.dev/banana-docs/quickstart).** 
+INPUT
+{
+  "prompt": "A long text to summarize.",
+  "min_length" : 25, 
+  "max_length" : 30
+}
 
-*(choose "GitHub Repository" deployment method)*
+OUTPUT
+{
+  "output": "A short summary of the text."
+}
 
 <br>
 
@@ -16,5 +23,3 @@ Understand the 🍌 [Serverless framework](https://docs.banana.dev/banana-docs/c
 Generalize this framework to [deploy anything on Banana](https://docs.banana.dev/banana-docs/resources/how-to-serve-anything-on-banana).
 
 <br>
-
-## Use Banana for scale.
