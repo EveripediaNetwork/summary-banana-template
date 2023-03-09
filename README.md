@@ -12,7 +12,8 @@
 
 ### OUTPUT
 ```
-{"Tron is a decentralized, blockchain-based, open-source protocol supporting various kinds of blockchain networks and smart contract systems.."
+{
+  "Tron is a decentralized, blockchain-based, open-source protocol supporting various kinds of blockchain networks and smart contract systems.."
 }
 
 ```
