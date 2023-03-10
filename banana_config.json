@@ -6,5 +6,5 @@
     "width":512
   },
   "example_output": {"base64_output": "A string of 25-30 characters"},
-  "version": "1"
+  "version": "0"
 }
