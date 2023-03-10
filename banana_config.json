@@ -1,6 +1,6 @@
 {
   "name": "Flan-T5 Summarization",
-  "category": "Summarization",
+  "category": "Natural Language",
   "example_input": {"prompt": "A string of 100 characters",
     "min_length":25,
     "max_length":30
