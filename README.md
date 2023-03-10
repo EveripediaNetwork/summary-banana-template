@@ -136,6 +136,52 @@ Errors will not throw an api-wide 500 error, as the check call technically was s
 
 Make sure to watch for errors in the message field.
 
+## Training and evaluation data
+* Loss: 1.4232
+
+* Rouge1: 42.1388
+
+* Rouge2: 19.7696
+
+* Rougel: 30.1512
+
+* Rougelsum: 39.3222
+
+* Gen Len: 71.8562
+
+## Training hyperparameters
+
+The following hyperparameters were used during training:
+
+* learning_rate: 0.0001
+
+* train_batch_size: 1
+
+* eval_batch_size: 4
+
+* seed: 42
+
+* gradient_accumulation_steps: 64
+
+* total_train_batch_size: 64
+
+* optimizer: Adam with betas=(0.9,0.999) and epsilon=1e-08
+
+* lr_scheduler_type: Constant
+
+* num_epochs: 3.0
+
+## Framework versions
+
+Transformers 4.27.0.dev0
+
+Pytorch 1.13.0+cu117
+
+Datasets 2.7.1
+
+Tokenizers 0.12.1
+
+
 
 ## MODEL INPUTS from wikis
 ```
