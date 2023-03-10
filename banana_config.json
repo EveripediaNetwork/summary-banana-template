@@ -1,13 +1,10 @@
 {
-    "name": "Flan-T5 BASE SUMMARY",
-    "category": "summarization",
-    "example_input": {
-        "prompt": "Tron is a decentralized, blockchain-based, open-source protocol supporting various ckchain technology and DApps.",
-        "min_length" : 25, 
-        "max_length" : 30
-    },
-  
-   "example_output":{ "base64_output":"Tron is a decentralized, blockchain-based, open-source protocol.."
-   },
-   "version":"1"
+  "name": "Stable Diffusion 2.1",
+  "category": "Computer Vision",
+  "example_input": {"prompt": "table with a book on it",
+    "height":512,
+    "width":512
+  },
+  "example_output": {"base64_output": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACSgAAASwCAYA..."},
+  "version": "1"
 }
