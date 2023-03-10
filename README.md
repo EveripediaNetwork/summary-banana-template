@@ -87,7 +87,7 @@ return json:
         ... // the json returned from the model inference server
 } ]
 ```
-### Check Endpoint
+## 2. Check Endpoint
 ```
 https://api.banana.dev/check/v4
 ```
