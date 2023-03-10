@@ -2,8 +2,8 @@
   "name": "Flan-T5 Summarization",
   "category": "Summarization",
   "example_input": {"prompt": "A string of 100 characters",
-    "height":512,
-    "width":512
+    "min_length":25,
+    "max_length":30
   },
   "example_output": {"base64_output": "A string of 25-30 characters"},
   "version": "1"
