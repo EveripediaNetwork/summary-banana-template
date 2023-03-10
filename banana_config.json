@@ -1,10 +1,10 @@
 {
-  "name": "Stable Diffusion 2.1",
-  "category": "Computer Vision",
-  "example_input": {"prompt": "table with a book on it",
+  "name": "Flan-T5 Summarization",
+  "category": "Summarization",
+  "example_input": {"prompt": "A string of 100 characters",
     "height":512,
     "width":512
   },
-  "example_output": {"base64_output": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACSgAAASwCAYA..."},
+  "example_output": {"base64_output": "A string of 25-30 characters"},
   "version": "1"
 }
